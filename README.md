@@ -1,1 +1,1 @@
-# Layer-wise-Relevance-Propagation-LRP-
+# Layer-wise Relevance Propagation (LRP)
