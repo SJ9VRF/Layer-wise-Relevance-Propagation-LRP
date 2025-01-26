@@ -19,10 +19,6 @@ cd lrp-pytorch
 pip install -r requirements.txt
 ```
 
-## Requirements
-- numpy
-- torch
-
 ## Usage
 ```python
 import torch.nn as nn
